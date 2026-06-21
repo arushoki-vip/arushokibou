@@ -1,0 +1,13 @@
+{
+
+&#x20; "name": "amp-ucanrinnovate",
+
+&#x20; "version": "1.0.0",
+
+&#x20; "scripts": {
+
+&#x20;   "start": "node server.js"
+
+&#x20; }
+
+}
